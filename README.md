@@ -7,6 +7,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://lr13-stack.github.io/portfolio-app/" target="_blank">
+    🌐 <b>Visita mi web</b>
+  </a>
+</p>
+
 
 <img align="right" src="https://i.giphy.com/9x55tYxEVrI04pKHl1.webp" width="300" /> 
 
