@@ -1,28 +1,122 @@
-<h1 align="center"><b>Hey there! I'm Luis Marco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+## <img src="assets/icons/hand.svg" width="26" align="absmiddle" /> Hey there! I'm Luis Marco
+
+[![github](https://img.shields.io/badge/GitHub-0e4e3a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LR13-stack)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0e4e3a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/luis-marco-romero-pretel/)
+
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="assets/logo-by-lmrp.svg" width="170" alt="LMRP logo" />
+    </td>
+    <td valign="middle">
+      Passionate about technology and process optimization, with a strong focus on problem-solving, agile methodologies, and collaborative teamwork.
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LR13-stack) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-marco-romero-pretel/)
-
+  <img src="assets/code-window.svg" width="560" alt="developer.ts — Full Stack Software Developer" />
 </div>
 
-<p align="center">
-  <a href="https://lr13-stack.github.io/portfolio-app/" target="_blank">
-    🌐 <b>Visita mi web</b>
-  </a>
-</p>
+## <img src="assets/icons/user.svg" width="26" align="absmiddle" /> What I Do
 
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="assets/icons/mobile.svg" width="40" alt="Mobile" />
+      <h3>Mobile</h3>
+      <sub>Cross-platform and native apps with Flutter &amp; Kotlin.</sub>
+      <br /><br />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="assets/icons/web.svg" width="40" alt="Web" />
+      <h3>Web</h3>
+      <sub>Modern, responsive interfaces with React &amp; Angular.</sub>
+      <br /><br />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br />
+      <img src="assets/icons/server.svg" width="40" alt="Backend" />
+      <h3>Backend</h3>
+      <sub>APIs and services with Spring, Laravel, Flask &amp; FastAPI.</sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-<img align="right" src="https://i.giphy.com/9x55tYxEVrI04pKHl1.webp" width="300" /> 
+## <img src="assets/icons/code.svg" width="26" align="absmiddle" /> Tech Stack
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZvN3RxajkzZWdocXc3Y2R1ZmI3bnI3emJxcHZodmh3djBwcDFvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.webp" width="40"> **About Me**
-    
+<table>
+  <tr>
+    <td width="210"><img src="assets/icons/mobile.svg" width="18" align="absmiddle" /> <b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-0e4e3a?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Kotlin-0e4e3a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/web.svg" width="18" align="absmiddle" /> <b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-0e4e3a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0e4e3a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-0e4e3a?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/HTML5-0e4e3a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS-0e4e3a?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0e4e3a?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-0e4e3a?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-0e4e3a?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/layers.svg" width="18" align="absmiddle" /> <b>Web Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0e4e3a?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Angular-0e4e3a?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/server.svg" width="18" align="absmiddle" /> <b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0e4e3a?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Java-0e4e3a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-0e4e3a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-0e4e3a?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/REST_API-0e4e3a?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/blocks.svg" width="18" align="absmiddle" /> <b>Backend Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-0e4e3a?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/Laravel-0e4e3a?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Flask-0e4e3a?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/FastAPI-0e4e3a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/database.svg" width="18" align="absmiddle" /> <b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0e4e3a?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-0e4e3a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-0e4e3a?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Supabase-0e4e3a?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/wrench.svg" width="18" align="absmiddle" /> <b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0e4e3a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-0e4e3a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-0e4e3a?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/Figma-0e4e3a?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
-Full Stack Software Developer with experience building efficient, scalable solutions. Passionate about technology and process optimization, with strong skills in web development, agile methodologies, and problem-solving. Committed to innovation, code quality, and collaborative teamwork.
+<br />
 
-
-
-## <img src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" width="50" /> **Languages and Tools**
-    
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white) ![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcn/ui&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=PHP&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white) ![](https://img.shields.io/badge/Postgresql-336791?style=flat-square&logo=PostgreSQL&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![](https://img.shields.io/badge/Restapi-4A4A4A?style=flat-square&logo=RESTAPI&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Always learning, always building." />
+</div>
