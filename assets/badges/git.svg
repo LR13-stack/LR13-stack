@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="30" viewBox="0 0 59 30">
+  <style>
+    .b { fill: none; stroke: #6e7781; stroke-opacity: .5; } .f { fill: #6e7781; }
+  </style>
+  <rect class="b" x=".5" y=".5" width="58" height="29" rx="7"/>
+  <path class="f" transform="translate(12 8) scale(.583)" d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z"/>
+  <text class="f" x="32" y="19.5" textLength="14.4" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Git</text>
+</svg>

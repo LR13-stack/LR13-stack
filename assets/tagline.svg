@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="32" viewBox="0 0 560 32">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 16px; fill: #6e7781; opacity: 0; animation: fade 12s ease-in-out infinite; }
+    /* 3 phrases x 4s: fade in, hold, fade out */
+    @keyframes fade { 0% { opacity: 0; } 5%, 28% { opacity: 1; } 33.33%, 100% { opacity: 0; } }
+    .t1 { animation-delay: -8s; }
+    .t2 { animation-delay: -4s; }
+  </style>
+  <text x="280" y="21" text-anchor="middle">Full Stack Software Developer</text>
+  <text class="t1" x="280" y="21" text-anchor="middle">Clean code, scalable solutions</text>
+  <text class="t2" x="280" y="21" text-anchor="middle">Building solutions, improving continuously.</text>
+</svg>

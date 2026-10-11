@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="30" viewBox="0 0 94 30">
+  <style>
+    .b { fill: none; stroke: #6e7781; stroke-opacity: .5; } .f { fill: #6e7781; }
+  </style>
+  <rect class="b" x=".5" y=".5" width="93" height="29" rx="14.5"/>
+  <text class="f" x="14" y="19.5" textLength="65.6" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Responsible</text>
+</svg>
