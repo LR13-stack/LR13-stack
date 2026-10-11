@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="85" height="30" viewBox="0 0 85 30">
+  <defs><linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f5f7"/><stop offset="1" stop-color="#cfd4da"/></linearGradient></defs>
   <style>
-    .b { fill: none; stroke: #6e7781; stroke-opacity: .5; } .f { fill: #6e7781; }
+    .b { fill: url(#silver); stroke: #a8afb8; } .f { fill: #1f2328; }
   </style>
   <rect class="b" x=".5" y=".5" width="84" height="29" rx="7"/>
   <path class="f" transform="translate(12 8) scale(.583)" d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z"/>
